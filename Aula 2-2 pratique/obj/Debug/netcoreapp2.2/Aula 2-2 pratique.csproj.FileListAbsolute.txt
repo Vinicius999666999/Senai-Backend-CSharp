@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-2 pratique\bin\Debug\netcoreapp2.2\Aula 2-2 pratique.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-2 pratique\bin\Debug\netcoreapp2.2\Aula 2-2 pratique.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-2 pratique\bin\Debug\netcoreapp2.2\Aula 2-2 pratique.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-2 pratique\bin\Debug\netcoreapp2.2\Aula 2-2 pratique.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-2 pratique\bin\Debug\netcoreapp2.2\Aula 2-2 pratique.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-2 pratique\obj\Debug\netcoreapp2.2\Aula 2-2 pratique.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-2 pratique\obj\Debug\netcoreapp2.2\Aula 2-2 pratique.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-2 pratique\obj\Debug\netcoreapp2.2\Aula 2-2 pratique.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-2 pratique\obj\Debug\netcoreapp2.2\Aula 2-2 pratique.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-2 pratique\obj\Debug\netcoreapp2.2\Aula 2-2 pratique.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-2 pratique\obj\Debug\netcoreapp2.2\Aula 2-2 pratique.pdb
