@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-3 atividade\obj\Debug\netcoreapp2.2\Aula 2-3 atividade.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-3 atividade\obj\Debug\netcoreapp2.2\Aula 2-3 atividade.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-3 atividade\obj\Debug\netcoreapp2.2\Aula 2-3 atividade.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-3 atividade\obj\Debug\netcoreapp2.2\Aula 2-3 atividade.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-3 atividade\bin\Debug\netcoreapp2.2\Aula 2-3 atividade.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-3 atividade\bin\Debug\netcoreapp2.2\Aula 2-3 atividade.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-3 atividade\bin\Debug\netcoreapp2.2\Aula 2-3 atividade.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-3 atividade\bin\Debug\netcoreapp2.2\Aula 2-3 atividade.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-3 atividade\bin\Debug\netcoreapp2.2\Aula 2-3 atividade.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-3 atividade\obj\Debug\netcoreapp2.2\Aula 2-3 atividade.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-3 atividade\obj\Debug\netcoreapp2.2\Aula 2-3 atividade.pdb

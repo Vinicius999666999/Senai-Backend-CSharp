@@ -8,7 +8,7 @@ namespace aula_2_3
         {
             //deixamos declarada como falsa por padão
             bool entrada = false;
-            int idade;
+            Int = idade;
             string retorno = "entrada não permitida";
 
             Console.WriteLine("digite sua idade: ");

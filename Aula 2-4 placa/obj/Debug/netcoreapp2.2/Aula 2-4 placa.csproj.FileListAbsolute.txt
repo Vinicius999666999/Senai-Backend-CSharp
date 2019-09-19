@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-4 placa\bin\Debug\netcoreapp2.2\Aula 2-4 placa.deps.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-4 placa\bin\Debug\netcoreapp2.2\Aula 2-4 placa.runtimeconfig.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-4 placa\bin\Debug\netcoreapp2.2\Aula 2-4 placa.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-4 placa\bin\Debug\netcoreapp2.2\Aula 2-4 placa.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-4 placa\bin\Debug\netcoreapp2.2\Aula 2-4 placa.pdb
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-4 placa\obj\Debug\netcoreapp2.2\Aula 2-4 placa.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-4 placa\obj\Debug\netcoreapp2.2\Aula 2-4 placa.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-4 placa\obj\Debug\netcoreapp2.2\Aula 2-4 placa.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-4 placa\obj\Debug\netcoreapp2.2\Aula 2-4 placa.AssemblyInfo.cs
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-4 placa\obj\Debug\netcoreapp2.2\Aula 2-4 placa.dll
+C:\Users\fic\Desktop\Senai-Backend-CSharp\Aula 2-4 placa\obj\Debug\netcoreapp2.2\Aula 2-4 placa.pdb
