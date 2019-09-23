@@ -15,6 +15,10 @@ namespace atividade_7
                 Console.WriteLine("Insira um valor: ");
                 vetor1[i] = int.Parse(Console.ReadLine());
 
+                if(i == 0){
+                    maior = vetor1[i];
+                }
+
                 if (maior < vetor1[i]) {
                     indice = i;
                     maior = vetor1[i];
