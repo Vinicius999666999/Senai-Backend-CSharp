@@ -15,5 +15,21 @@ namespace Atividade_2.Models
         public bool Ligacao {get; set; }
 
         public bool Mensagem {get; set; }
+
+        public IMC_Models (){
+
+        }
+
+        public IMC_Models (string cor, string modelo, double tamanho, bool ligado, bool desligado, bool ligacao, bool mensagem){
+
+        this.Cor = cor;
+        this.Modelo = modelo;
+        this.Tamanho = tamanho;
+        this.Ligado = ligado;
+        this.Desligado = desligado;
+        this.Ligacao = ligacao;
+        this.Mensagem = mensagem;
+
+        }
     }
 }
