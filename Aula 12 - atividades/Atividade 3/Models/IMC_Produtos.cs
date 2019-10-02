@@ -10,6 +10,19 @@ namespace Atividade_3.Models
 
         public double Preco {get; set; }
 
+        public IMC_Produtos(){
+
+        }
+
+        public IMC_Produtos(string nomeproduto, string cor, string marca, double preco){
+
+            this.Nomeproduto = nomeproduto;
+            this.Cor = cor;
+            this.Marca = marca;
+            this.Preco = preco;
+
+        }
+
 
     }
 }
